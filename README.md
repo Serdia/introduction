@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Deploy ERS-20 token](https://github.com/Serdia/Build-and-deploy-ERC-20-style-token-using-Remix-and-Metamask)
+  - [Deploy ERS-20 token using Remix and Metamask](https://github.com/Serdia/Build-and-deploy-ERC-20-style-token-using-Remix-and-Metamask)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
