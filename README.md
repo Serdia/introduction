@@ -1,6 +1,6 @@
 <h1>Hi, I'm Oleg! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Data Engineering Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Deploy ERS-20 token using Remix and Metamask](https://github.com/Serdia/Build-and-deploy-ERC-20-style-token-using-Remix-and-Metamask)
