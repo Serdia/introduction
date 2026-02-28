@@ -4,7 +4,7 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Deploy ERS-20 token using Remix and Metamask](https://github.com/Serdia/Build-and-deploy-ERC-20-style-token-using-Remix-and-Metamask)
-- <b>data pipeline processing ride-share data (Google Gloude, Mage AI, BigQuery, Looker)</b>
+- <b>Data pipeline processing ride-share data (Google Gloude, Mage AI, BigQuery, Looker)</b>
   - [Uber-Data-Engineering-Project](https://github.com/Serdia/Uber-Data-Engineering-Project) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
