@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Data Engineering Projects:</h2>
 
+- <b>Salesforce data integration using Informatica Cloud (Google Gloude, Mage AI, BigQuery, Looker)</b>
+  - [salesforce-informatica-data-integration-pipeline](https://github.com/Serdia/salesforce-informatica-data-integration-pipeline)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Deploy ERS-20 token using Remix and Metamask](https://github.com/Serdia/Build-and-deploy-ERC-20-style-token-using-Remix-and-Metamask)
 - <b>Data pipeline processing ride-share data (Google Gloude, Mage AI, BigQuery, Looker)</b>
